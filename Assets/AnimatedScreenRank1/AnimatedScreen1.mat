@@ -12,8 +12,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _3D_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -62,7 +61,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _3D: 1
+    - _3D: 0
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -83,5 +82,6 @@ Material:
     m_Colors:
     - _Color: {r: 0.046757333, g: 0.0184905, b: 0.83823526, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - mouse: {r: 0, g: 0, b: 0, a: 0}
+    - mouse: {r: -0.034557234, g: 1.1167883, b: 0, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
