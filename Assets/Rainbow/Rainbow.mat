@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rainbow
-  m_Shader: {fileID: 4800000, guid: 974ae238533766b49a7fda35222d2879, type: 3}
+  m_Shader: {fileID: 4800000, guid: 9eca1a2e7a52515488b3e3a0bab80da7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []

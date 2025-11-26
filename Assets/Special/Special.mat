@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Special
-  m_Shader: {fileID: 4800000, guid: ca6166b36a5696049a8762bbd4fb7d99, type: 3}
+  m_Shader: {fileID: 4800000, guid: 182d6b913ecf1f9408c2d508635c0a3a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -85,7 +85,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - mouse: {r: 0.50351304, g: 0.5023431, b: 0, a: 0}
+    - mouse: {r: 0.5046502, g: 0.50267434, b: 0, a: 0}
     - mouser: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

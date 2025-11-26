@@ -2,7 +2,6 @@
 {
 	Properties
 	{
-		mouse ("Mouse", Vector) = (0,0,0,0)
 	}
 	SubShader
 	{	
@@ -11,11 +10,7 @@
 			GLSLPROGRAM // Begin GLSL
 
 			uniform vec2 _ScreenParams; 
-			//uniform vec2 mouse;
 			uniform vec4 _Time; // (t/20, t, t*2, t*3)
-			//uniform  vec4 unity_DeltaTime //  (dt, 1/dt, smoothDt, 1/smoothDt).
-			//uniform  vec4 _SinTime // (t/8, t/4, t/2, t).
-			//uniform  vec4 _CosTime // (t/8, t/4, t/2, t).
 
 			#ifdef VERTEX // Begin vertex program/shader
 

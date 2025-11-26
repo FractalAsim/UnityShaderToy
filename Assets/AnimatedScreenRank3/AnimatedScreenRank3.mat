@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: AnimatedScreenRank3
-  m_Shader: {fileID: 4800000, guid: 8841b390cc0226541a74bf0b8244c9fb, type: 3}
+  m_Shader: {fileID: 4800000, guid: 53c351bde849bc24c800c6c33e60c42e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
